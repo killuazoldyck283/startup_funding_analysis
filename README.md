@@ -23,4 +23,16 @@ A data analytics project exploring trends in Indian startup funding using a Kagg
 - Presenting insights in a clean, visual way
 
 ## 📁 Folder Structure
+startup_funding_analysis/
+│
+├── data/
+│   └── startup_funding.csv          # Raw startup funding dataset
+│
+├── notebooks/
+│   └── eda.ipynb                    # Jupyter Notebook for EDA
+│
+│
+├── README.md                        # Project overview, insights, and instructions
+│
+└── requirements.txt                 # (Optional) List of dependencies
 
